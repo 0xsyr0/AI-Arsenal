@@ -71,7 +71,7 @@ docker binary (for docker exec mode)
 **Installation**
 
 ```bash
-git clone https://github.com/youruser/ai-arsenal
+git clone https://github.com/0xsyr0/ai-arsenal
 cd ai-arsenal
 
 # Optional: install pymysql for direct TCP mode
